@@ -10,4 +10,4 @@
 ### Six companies: AAPL, GOOG, FB, PFE, INTC, NVDA
 ### portfolio: 150,000 USD for each companies
 ##  result from 2021/01/01 to 2021/10/31:  
-### My portfolio has a profit rate of 35.5% compared with NasDaq average rate of 21.1%.
+### My portfolio has a profit rate of 35.5% compared with NasDaq average rate of 21.1%; which showed that our trading model works in terms of profit.
