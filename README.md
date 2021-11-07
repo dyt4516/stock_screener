@@ -9,5 +9,5 @@ A python web crawler for ticker selection
 ## Winner:
 ### Six companies: AAPL, GOOG, FB, PFE, INTC, NVDA
 ### portfolio: 150,000 USD for each companies
-##  result from 2020/12/31 to 2021/10/31:  
+##  result from 2021/01/01 to 2021/10/31:  
 ### 
